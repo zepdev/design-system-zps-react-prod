@@ -1,17 +1,11 @@
 import { StoryObj } from '@storybook/react';
 import { RichTextProps } from './richText.interface';
+
 declare const meta: {
     title: string;
-    component: ({ content, children, textColor }: RichTextProps) => import("react/jsx-dev-runtime").JSX.Element;
+    component: ({ content, children, variant }: RichTextProps) => import("react/jsx-dev-runtime").JSX.Element;
     tags: string[];
-    argTypes: {
-        textColor: {
-            control: {
-                type: string;
-                options: string[];
-            };
-        };
-    };
+    argTypes: {};
 };
 export default meta;
 type Story = StoryObj<typeof meta>;
