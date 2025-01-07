@@ -1,3 +1,4 @@
+import { LocaleVariants } from '../../interfaces/global-variants';
 import { LinkListItemProps } from '../link-list-item';
 
 export interface ContactFormProps {
@@ -5,6 +6,6 @@ export interface ContactFormProps {
     headline: string;
     tagline?: string;
     linkLists?: LinkListItemProps[];
-    locale: 'en' | 'de';
+    locale: LocaleVariants;
 }
 //# sourceMappingURL=contact-form-interface.d.ts.map
