@@ -1,0 +1,26 @@
+import{G as r,a as c}from"./global-variants-71b69725.js";import{j as e}from"./jsx-runtime-1a9d9a93.js";import{f as Z}from"./index.es24-01fa0cce.js";import{c as t}from"./clsx-0839fdbe.js";import{a as _}from"./moving-forward-arrow-a1f6b1da.js";import{b as d}from"./commonCSS-0b9dd3ad.js";import{B as u,Z as y}from"./ZpsButton-91fac0e6.js";import{L as N}from"./Layout-8fb0eebb.js";import"./index-8b3efc3f.js";import"./_commonjsHelpers-de833af9.js";import"./index.es35-79e31a69.js";import"./index.es31-95f1013f.js";import"./index.es13-3580608c.js";import"./index-ff2c9236.js";import"./tw-merge-1166cefb.js";const E={[r.Zps]:d[c.ZpsBg],[r.Cat]:d[c.CatBg]},I=({imageSrc:a,imageAlt:l})=>a===void 0?null:e.jsx("img",{alt:l,src:a,"data-testid":"zep-newhero-image",className:t("zep-w-full","zep-object-cover","zep-h-auto","sm:zep-h-[380px]","xl:zep-h-[540px]")}),G=({children:a})=>e.jsx("h4",{"data-testid":"new-hero-headline",className:t("zep-typography-headlineLG-fluid-cqi","md:zep-typography-headline2XL-fluid-cqi","md:supports-cqi:zep-typography-headline2XL-fluid-cqi","zep-text-typography-light-100","supports-cqi:after:zep-text-[0.23em]","zep-mb-2","zep-max-w-[80%]"),children:a}),L=()=>e.jsx("div",{className:"zep-w-full zep-absolute zep-left-[0px] zep-bottom-[0px] zep-hidden md:zep-block",children:e.jsx("img",{src:_,alt:"arrow",width:"18.75%","data-testid":"zep-her-arrowIcon",className:t("zep-absolute","zep-right-1","zep-mr-[3%]","zep-top-[50%]","zep-translate-y-[-50%]")})}),i=({variant:a=r.Zps,headline:l,buttonSecondary:p,buttonPrimary:m,buttonPrimaryOnClick:V,buttonSecondaryOnClick:q,imageAlt:O,imageSrc:P})=>e.jsxs(N,{className:t("zep-flex-col","md:zep-flex","zep-relative","!zep-px-[0]"),wrapperClassname:E[a],testId:"zep-newhero",children:[e.jsx(I,{imageSrc:P,imageAlt:O}),e.jsxs("div",{"data-testid":"zep-newhero-body",className:t("zep-items-center","zep-w-full","zep-relative","zep-max-w-[1920px]","zep-w-full","zep-px-1","sm:zep-px-1.5","md:zep-px-[66px]","xl:zep-px-[122px]","zep-py-3","sm:zep-py-4","md:zep-py-5"),children:[e.jsx(G,{children:l}),e.jsx("div",{className:"zep-block","data-testid":"zep-new-herobutton",children:e.jsxs(Z,{className:t("max-md:zep-flex","sm:zep-flex-row","zep-gap-1"),direction:"column",children:[m?e.jsx(u,{"data-testid":"zep-hero-primary-button",label:m,variant:y.Primary,onClick:V}):null,p?e.jsx(u,{"data-testid":"zep-hero-secondary-button",label:p,variant:y.Secondary,onClick:q}):null]})}),e.jsx(L,{})]})]});try{i.displayName="Hero",i.__docgenInfo={description:"",displayName:"Hero",props:{variant:{defaultValue:{value:"GlobalVariants.Zps"},description:"",name:"variant",required:!1,type:{name:"enum",value:[{value:'"ZPS"'},{value:'"CAT"'}]}},headline:{defaultValue:null,description:"",name:"headline",required:!0,type:{name:"string"}},buttonPrimary:{defaultValue:null,description:"",name:"buttonPrimary",required:!1,type:{name:"string"}},buttonSecondary:{defaultValue:null,description:"",name:"buttonSecondary",required:!1,type:{name:"string"}},buttonPrimaryOnClick:{defaultValue:null,description:"",name:"buttonPrimaryOnClick",required:!1,type:{name:"((ev: MouseEvent<HTMLElement, MouseEvent>) => void)"}},buttonSecondaryOnClick:{defaultValue:null,description:"",name:"buttonSecondaryOnClick",required:!1,type:{name:"((ev: MouseEvent<HTMLElement, MouseEvent>) => void)"}},imageSrc:{defaultValue:null,description:"",name:"imageSrc",required:!1,type:{name:"string"}},imageAlt:{defaultValue:null,description:"",name:"imageAlt",required:!1,type:{name:"string"}}}}}catch{}const ee={title:"Components/Hero",component:i,tags:["autodocs"],argTypes:{}},z={src:"./assets/hero_image.png",alt:"Lorem ipsum dolor sit amet consectetur."},k="Headline",H="Primary",j="Secondary",n={args:{variant:r.Zps,headline:k,buttonPrimary:H,buttonSecondary:j,buttonSecondaryOnClick:()=>null,buttonPrimaryOnClick:()=>null,imageSrc:z.src,imageAlt:z.alt}},o={args:{variant:r.Zps,headline:k,buttonPrimary:H,buttonPrimaryOnClick:()=>null,buttonSecondary:j,buttonSecondaryOnClick:()=>null}},s={args:{variant:r.Zps,headline:"Headiline test"}};var g,h,f;n.parameters={...n.parameters,docs:{...(g=n.parameters)==null?void 0:g.docs,source:{originalSource:`{
+  args: {
+    variant: GlobalVariants.Zps,
+    headline,
+    buttonPrimary,
+    buttonSecondary,
+    buttonSecondaryOnClick: () => null,
+    buttonPrimaryOnClick: () => null,
+    imageSrc: Image.src,
+    imageAlt: Image.alt
+  }
+}`,...(f=(h=n.parameters)==null?void 0:h.docs)==null?void 0:f.source}}};var x,b,v;o.parameters={...o.parameters,docs:{...(x=o.parameters)==null?void 0:x.docs,source:{originalSource:`{
+  args: {
+    variant: GlobalVariants.Zps,
+    headline,
+    buttonPrimary,
+    buttonPrimaryOnClick: () => null,
+    buttonSecondary,
+    buttonSecondaryOnClick: () => null
+  }
+}`,...(v=(b=o.parameters)==null?void 0:b.docs)==null?void 0:v.source}}};var S,C,w;s.parameters={...s.parameters,docs:{...(S=s.parameters)==null?void 0:S.docs,source:{originalSource:`{
+  args: {
+    variant: GlobalVariants.Zps,
+    headline: 'Headiline test'
+  }
+}`,...(w=(C=s.parameters)==null?void 0:C.docs)==null?void 0:w.source}}};const ae=["Default","HeroSimple","HeroSimpleWithoutButtons"];export{n as Default,o as HeroSimple,s as HeroSimpleWithoutButtons,ae as __namedExportsOrder,ee as default};
