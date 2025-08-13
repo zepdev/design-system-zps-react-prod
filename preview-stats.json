@@ -346,6 +346,15 @@
       ]
     },
     {
+      "id": "./src/components/map-card/MapCard.stories.tsx",
+      "name": "./src/components/map-card/MapCard.stories.tsx",
+      "reasons": [
+        {
+          "moduleName": "/virtual:/@storybook/builder-vite/storybook-stories.js"
+        }
+      ]
+    },
+    {
       "id": "./src/components/media-text-pattern/MediaTextPattern.stories.tsx",
       "name": "./src/components/media-text-pattern/MediaTextPattern.stories.tsx",
       "reasons": [
@@ -719,13 +728,13 @@
           "moduleName": "./src/components/Teaser-simple/Teaser-simple.tsx"
         },
         {
+          "moduleName": "./src/components/accrodion-pattern/AccordionPattern.tsx"
+        },
+        {
           "moduleName": "./src/components/USP/Usp.tsx"
         },
         {
           "moduleName": "./src/components/anchor-navigation-card/AnchorNavigationCard.tsx"
-        },
-        {
-          "moduleName": "./src/components/accrodion-pattern/AccordionPattern.tsx"
         },
         {
           "moduleName": "./src/components/anchor-navigation-list/AnchorNavigationList.tsx"
@@ -758,10 +767,10 @@
           "moduleName": "./src/components/header-short-component/HeaderShortComponent.tsx"
         },
         {
-          "moduleName": "./src/components/header-short/HeaderShort.tsx"
+          "moduleName": "./src/components/image-image-pattern/ImageImagePattern.tsx"
         },
         {
-          "moduleName": "./src/components/image-image-pattern/ImageImagePattern.tsx"
+          "moduleName": "./src/components/header-short/HeaderShort.tsx"
         },
         {
           "moduleName": "./src/components/hero/Hero.tsx"
@@ -779,6 +788,9 @@
           "moduleName": "./src/components/link-list-item/LinkListItem.tsx"
         },
         {
+          "moduleName": "./src/components/map-card/MapCard.tsx"
+        },
+        {
           "moduleName": "./src/components/media-text-pattern/MediaTextPattern.tsx"
         },
         {
@@ -794,25 +806,22 @@
           "moduleName": "./src/components/multi-link-list/MultiLinkList.tsx"
         },
         {
-          "moduleName": "./src/components/navigation/Navigation.tsx"
-        },
-        {
           "moduleName": "./src/components/news-details/NewsDetails.tsx"
         },
         {
-          "moduleName": "./src/components/partner-communication/PartnerCommunication.tsx"
+          "moduleName": "./src/components/navigation/Navigation.tsx"
         },
         {
           "moduleName": "./src/components/process-chain/ProcessChain.tsx"
         },
         {
-          "moduleName": "./src/components/product-highlight/Product-highlight.tsx"
+          "moduleName": "./src/components/partner-communication/PartnerCommunication.tsx"
         },
         {
           "moduleName": "./src/components/rich-text-pattern/RichTextPattern.tsx"
         },
         {
-          "moduleName": "./src/components/rich-text/RichText.tsx"
+          "moduleName": "./src/components/product-highlight/Product-highlight.tsx"
         },
         {
           "moduleName": "./src/components/single-link-list/SingleLinkList.tsx"
@@ -839,13 +848,16 @@
           "moduleName": "./src/components/contact-form/contact-form-locales.ts"
         },
         {
+          "moduleName": "./src/components/rich-text/RichText.tsx"
+        },
+        {
           "moduleName": "./src/components/header-long-component/HeaderLongComponent.tsx"
         },
         {
-          "moduleName": "./src/components/infographic-image/InfoPoint.tsx"
+          "moduleName": "./src/components/infographic-image/PointCard.tsx"
         },
         {
-          "moduleName": "./src/components/infographic-image/PointCard.tsx"
+          "moduleName": "./src/components/infographic-image/InfoPoint.tsx"
         },
         {
           "moduleName": "./src/components/video/Video.tsx"
@@ -889,20 +901,20 @@
       ]
     },
     {
-      "id": "./src/components/anchor-navigation-list/AnchorNavigationList.tsx",
-      "name": "./src/components/anchor-navigation-list/AnchorNavigationList.tsx",
-      "reasons": [
-        {
-          "moduleName": "./src/components/anchor-navigation-list/AnchorNavigationList.stories.tsx"
-        }
-      ]
-    },
-    {
       "id": "./src/components/breadcrumb/Breadcrumb.tsx",
       "name": "./src/components/breadcrumb/Breadcrumb.tsx",
       "reasons": [
         {
           "moduleName": "./src/components/breadcrumb/Breadcrumb.stories.tsx"
+        }
+      ]
+    },
+    {
+      "id": "./src/components/anchor-navigation-list/AnchorNavigationList.tsx",
+      "name": "./src/components/anchor-navigation-list/AnchorNavigationList.tsx",
+      "reasons": [
+        {
+          "moduleName": "./src/components/anchor-navigation-list/AnchorNavigationList.stories.tsx"
         }
       ]
     },
@@ -1001,6 +1013,9 @@
           "moduleName": "./src/components/link-list-item/LinkListItem.stories.tsx"
         },
         {
+          "moduleName": "./src/components/map-card/MapCard.stories.tsx"
+        },
+        {
           "moduleName": "./src/components/media-text-pattern/MediaTextPattern.stories.tsx"
         },
         {
@@ -1019,10 +1034,10 @@
           "moduleName": "./src/components/news-details/NewsDetails.stories.tsx"
         },
         {
-          "moduleName": "./src/components/product-highlight/Product-highlight.stories.tsx"
+          "moduleName": "./src/components/rich-text-pattern/RichTextPattern.stories.tsx"
         },
         {
-          "moduleName": "./src/components/rich-text-pattern/RichTextPattern.stories.tsx"
+          "moduleName": "./src/components/product-highlight/Product-highlight.stories.tsx"
         },
         {
           "moduleName": "./src/components/single-link-list/SingleLinkList.stories.tsx"
@@ -1107,6 +1122,9 @@
         },
         {
           "moduleName": "./src/components/infographic-image-pattern/InfographicImagePattern.tsx"
+        },
+        {
+          "moduleName": "./src/components/map-card/MapCard.tsx"
         },
         {
           "moduleName": "./src/components/media-text-small-pattern/MediaTextSmallPattern.tsx"
@@ -1225,6 +1243,15 @@
       ]
     },
     {
+      "id": "./src/components/map-card/MapCard.tsx",
+      "name": "./src/components/map-card/MapCard.tsx",
+      "reasons": [
+        {
+          "moduleName": "./src/components/map-card/MapCard.stories.tsx"
+        }
+      ]
+    },
+    {
       "id": "./src/components/media-text-pattern/MediaTextPattern.tsx",
       "name": "./src/components/media-text-pattern/MediaTextPattern.tsx",
       "reasons": [
@@ -1279,6 +1306,15 @@
       ]
     },
     {
+      "id": "./src/components/news-details/NewsDetails.tsx",
+      "name": "./src/components/news-details/NewsDetails.tsx",
+      "reasons": [
+        {
+          "moduleName": "./src/components/news-details/NewsDetails.stories.tsx"
+        }
+      ]
+    },
+    {
       "id": "./src/assets/zep-cat-logo.svg",
       "name": "./src/assets/zep-cat-logo.svg",
       "reasons": [
@@ -1297,11 +1333,11 @@
       ]
     },
     {
-      "id": "./src/components/news-details/NewsDetails.tsx",
-      "name": "./src/components/news-details/NewsDetails.tsx",
+      "id": "./src/components/process-chain/ProcessChain.tsx",
+      "name": "./src/components/process-chain/ProcessChain.tsx",
       "reasons": [
         {
-          "moduleName": "./src/components/news-details/NewsDetails.stories.tsx"
+          "moduleName": "./src/components/process-chain/procesChain.stories.tsx"
         }
       ]
     },
@@ -1315,11 +1351,11 @@
       ]
     },
     {
-      "id": "./src/components/process-chain/ProcessChain.tsx",
-      "name": "./src/components/process-chain/ProcessChain.tsx",
+      "id": "./src/components/rich-text-pattern/RichTextPattern.tsx",
+      "name": "./src/components/rich-text-pattern/RichTextPattern.tsx",
       "reasons": [
         {
-          "moduleName": "./src/components/process-chain/procesChain.stories.tsx"
+          "moduleName": "./src/components/rich-text-pattern/RichTextPattern.stories.tsx"
         }
       ]
     },
@@ -1353,6 +1389,9 @@
         },
         {
           "moduleName": "./src/components/hero/Hero.tsx"
+        },
+        {
+          "moduleName": "./src/components/map-card/MapCard.tsx"
         },
         {
           "moduleName": "./src/components/media-text/MediaText.tsx"
@@ -1389,15 +1428,6 @@
       "reasons": [
         {
           "moduleName": "./src/components/product-highlight/Product-highlight.stories.tsx"
-        }
-      ]
-    },
-    {
-      "id": "./src/components/rich-text-pattern/RichTextPattern.tsx",
-      "name": "./src/components/rich-text-pattern/RichTextPattern.tsx",
-      "reasons": [
-        {
-          "moduleName": "./src/components/rich-text-pattern/RichTextPattern.stories.tsx"
         }
       ]
     },
@@ -1679,10 +1709,10 @@
           "moduleName": "./src/components/header-long/HeaderLong.tsx"
         },
         {
-          "moduleName": "./src/components/header-short/HeaderShort.tsx"
+          "moduleName": "./src/components/image-image-pattern/ImageImagePattern.tsx"
         },
         {
-          "moduleName": "./src/components/image-image-pattern/ImageImagePattern.tsx"
+          "moduleName": "./src/components/header-short/HeaderShort.tsx"
         },
         {
           "moduleName": "./src/components/hero/Hero.tsx"
@@ -1692,6 +1722,9 @@
         },
         {
           "moduleName": "./src/components/lead-text/LeadText.tsx"
+        },
+        {
+          "moduleName": "./src/components/map-card/MapCard.tsx"
         },
         {
           "moduleName": "./src/components/media-text-pattern/MediaTextPattern.tsx"
@@ -1706,16 +1739,16 @@
           "moduleName": "./src/components/news-details/NewsDetails.tsx"
         },
         {
-          "moduleName": "./src/components/partner-communication/PartnerCommunication.tsx"
-        },
-        {
           "moduleName": "./src/components/process-chain/ProcessChain.tsx"
         },
         {
-          "moduleName": "./src/components/product-highlight/Product-highlight.tsx"
+          "moduleName": "./src/components/partner-communication/PartnerCommunication.tsx"
         },
         {
           "moduleName": "./src/components/rich-text-pattern/RichTextPattern.tsx"
+        },
+        {
+          "moduleName": "./src/components/product-highlight/Product-highlight.tsx"
         },
         {
           "moduleName": "./src/components/single-link-list/SingleLinkList.tsx"
@@ -1850,6 +1883,9 @@
           "moduleName": "./src/components/link-list-item/LinkListItem.tsx"
         },
         {
+          "moduleName": "./src/components/map-card/MapCard.tsx"
+        },
+        {
           "moduleName": "./src/components/media-text-small-pattern/MediaTextSmallPattern.tsx"
         },
         {
@@ -1913,6 +1949,9 @@
           "moduleName": "./src/components/link-list-item/LinkListItem.tsx"
         },
         {
+          "moduleName": "./src/components/map-card/MapCard.tsx"
+        },
+        {
           "moduleName": "./src/components/media-text-small/MediaTextSmall.tsx"
         },
         {
@@ -1922,10 +1961,10 @@
           "moduleName": "./src/components/news-details/NewsDetails.tsx"
         },
         {
-          "moduleName": "./src/components/product-highlight/Product-highlight.tsx"
+          "moduleName": "./src/components/rich-text-pattern/RichTextPattern.tsx"
         },
         {
-          "moduleName": "./src/components/rich-text-pattern/RichTextPattern.tsx"
+          "moduleName": "./src/components/product-highlight/Product-highlight.tsx"
         },
         {
           "moduleName": "./src/components/table-pattern/TablePattern.tsx"
@@ -2000,9 +2039,6 @@
           "moduleName": "./src/components/product-highlight/Product-highlight.tsx"
         },
         {
-          "moduleName": "./src/components/rich-text/RichText.tsx"
-        },
-        {
           "moduleName": "./src/components/text-highlight/TextHighlight.tsx"
         },
         {
@@ -2010,6 +2046,9 @@
         },
         {
           "moduleName": "./src/components/zps-button/ZpsButton.tsx"
+        },
+        {
+          "moduleName": "./src/components/rich-text/RichText.tsx"
         },
         {
           "moduleName": "./src/components/header-long-component/HeaderLongComponent.tsx"
@@ -2407,24 +2446,6 @@
       ]
     },
     {
-      "id": "./src/assets/appstore.svg",
-      "name": "./src/assets/appstore.svg",
-      "reasons": [
-        {
-          "moduleName": "./src/components/rich-text/RichText.tsx"
-        }
-      ]
-    },
-    {
-      "id": "./src/assets/googleplay.svg",
-      "name": "./src/assets/googleplay.svg",
-      "reasons": [
-        {
-          "moduleName": "./src/components/rich-text/RichText.tsx"
-        }
-      ]
-    },
-    {
       "id": "./src/components/gallery/index.ts",
       "name": "./src/components/gallery/index.ts",
       "reasons": [
@@ -2559,6 +2580,24 @@
       "reasons": [
         {
           "moduleName": "./src/components/form-fields/phone-input/index.ts"
+        }
+      ]
+    },
+    {
+      "id": "./src/assets/appstore.svg",
+      "name": "./src/assets/appstore.svg",
+      "reasons": [
+        {
+          "moduleName": "./src/components/rich-text/RichText.tsx"
+        }
+      ]
+    },
+    {
+      "id": "./src/assets/googleplay.svg",
+      "name": "./src/assets/googleplay.svg",
+      "reasons": [
+        {
+          "moduleName": "./src/components/rich-text/RichText.tsx"
         }
       ]
     },
