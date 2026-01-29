@@ -743,13 +743,13 @@
           "moduleName": "./src/components/lightbox-contact-form/LightboxContactForm.stories.tsx"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.stories.tsx"
-        },
-        {
           "moduleName": "./src/components/used-machine-pattern/used-machine-card/UsedMachineCard.stories.tsx"
         },
         {
           "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.stories.tsx"
+        },
+        {
+          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.stories.tsx"
         },
         {
           "moduleName": "./src/components/Teaser-simple/Teaser-simple.tsx"
@@ -854,10 +854,10 @@
           "moduleName": "./src/components/single-link-list/SingleLinkList.tsx"
         },
         {
-          "moduleName": "./src/components/text-highlight/TextHighlight.tsx"
+          "moduleName": "./src/components/table-pattern/TablePattern.tsx"
         },
         {
-          "moduleName": "./src/components/table-pattern/TablePattern.tsx"
+          "moduleName": "./src/components/text-highlight/TextHighlight.tsx"
         },
         {
           "moduleName": "./src/components/used-machine-info/UsedMachineInfo.tsx"
@@ -1117,6 +1117,15 @@
       ]
     },
     {
+      "id": "./src/components/form-success-message/FormSuccessMessage.tsx",
+      "name": "./src/components/form-success-message/FormSuccessMessage.tsx",
+      "reasons": [
+        {
+          "moduleName": "./src/components/form-success-message/FormSuccessMessage.stories.tsx"
+        }
+      ]
+    },
+    {
       "id": "./src/components/gallery/Gallery.tsx",
       "name": "./src/components/gallery/Gallery.tsx",
       "reasons": [
@@ -1125,15 +1134,6 @@
         },
         {
           "moduleName": "./src/components/gallery/index.ts"
-        }
-      ]
-    },
-    {
-      "id": "./src/components/form-success-message/FormSuccessMessage.tsx",
-      "name": "./src/components/form-success-message/FormSuccessMessage.tsx",
-      "reasons": [
-        {
-          "moduleName": "./src/components/form-success-message/FormSuccessMessage.stories.tsx"
         }
       ]
     },
@@ -1187,10 +1187,10 @@
           "moduleName": "./src/components/product-highlight/Product-highlight.tsx"
         },
         {
-          "moduleName": "./src/components/text-highlight/TextHighlight.tsx"
+          "moduleName": "./src/components/table-pattern/TablePattern.tsx"
         },
         {
-          "moduleName": "./src/components/table-pattern/TablePattern.tsx"
+          "moduleName": "./src/components/text-highlight/TextHighlight.tsx"
         },
         {
           "moduleName": "./src/components/contact-form-events/ContactFormEvents.tsx"
@@ -1442,10 +1442,10 @@
           "moduleName": "./src/components/redirect-modal/RedirectModal.tsx"
         },
         {
-          "moduleName": "./src/components/text-highlight/TextHighlight.tsx"
+          "moduleName": "./src/components/table-pattern/TablePattern.tsx"
         },
         {
-          "moduleName": "./src/components/table-pattern/TablePattern.tsx"
+          "moduleName": "./src/components/text-highlight/TextHighlight.tsx"
         },
         {
           "moduleName": "./src/components/used-machine-info/UsedMachineInfo.tsx"
@@ -1541,10 +1541,10 @@
           "moduleName": "./src/components/used-machine-info/UsedMachineInfo.stories.tsx"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.stories.tsx"
+          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.stories.tsx"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.stories.tsx"
+          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.stories.tsx"
         },
         {
           "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.tsx"
@@ -1563,15 +1563,6 @@
       "reasons": [
         {
           "moduleName": "./src/components/video/Video.stories.tsx"
-        }
-      ]
-    },
-    {
-      "id": "./src/components/usp-list/UspList.tsx",
-      "name": "./src/components/usp-list/UspList.tsx",
-      "reasons": [
-        {
-          "moduleName": "./src/components/usp-list/UspList.stories.tsx"
         }
       ]
     },
@@ -1599,6 +1590,15 @@
         },
         {
           "moduleName": "./src/components/zps-button/ZpsButton.tsx"
+        }
+      ]
+    },
+    {
+      "id": "./src/components/usp-list/UspList.tsx",
+      "name": "./src/components/usp-list/UspList.tsx",
+      "reasons": [
+        {
+          "moduleName": "./src/components/usp-list/UspList.stories.tsx"
         }
       ]
     },
@@ -1835,10 +1835,10 @@
           "moduleName": "./src/components/single-link-list/SingleLinkList.tsx"
         },
         {
-          "moduleName": "./src/components/text-highlight/TextHighlight.tsx"
+          "moduleName": "./src/components/table-pattern/TablePattern.tsx"
         },
         {
-          "moduleName": "./src/components/table-pattern/TablePattern.tsx"
+          "moduleName": "./src/components/text-highlight/TextHighlight.tsx"
         },
         {
           "moduleName": "./src/components/used-machine-info/UsedMachineInfo.tsx"
@@ -1867,30 +1867,6 @@
       ]
     },
     {
-      "id": "./src/components/used-machine-pattern/UsedMachinePattern.tsx",
-      "name": "./src/components/used-machine-pattern/UsedMachinePattern.tsx",
-      "reasons": [
-        {
-          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.stories.tsx"
-        },
-        {
-          "moduleName": "./src/components/used-machine-pattern/index.ts"
-        }
-      ]
-    },
-    {
-      "id": "./src/components/used-machine-pattern/used-machine-filters/index.ts",
-      "name": "./src/components/used-machine-pattern/used-machine-filters/index.ts",
-      "reasons": [
-        {
-          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.stories.tsx"
-        },
-        {
-          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.tsx"
-        }
-      ]
-    },
-    {
       "id": "./src/components/used-machine-pattern/used-machine-card/UsedMachineCard.tsx",
       "name": "./src/components/used-machine-pattern/used-machine-card/UsedMachineCard.tsx",
       "reasons": [
@@ -1913,10 +1889,10 @@
           "moduleName": "./src/components/used-machine-pattern/used-machine-card/index.ts"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/used-machine-locales.ts"
+          "moduleName": "./src/components/used-machine-pattern/used-machine-card/UsedMachineDescription.tsx"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/used-machine-card/UsedMachineDescription.tsx"
+          "moduleName": "./src/components/used-machine-pattern/used-machine-locales.ts"
         }
       ]
     },
@@ -1929,6 +1905,30 @@
         },
         {
           "moduleName": "./src/components/used-machine-pattern/used-machine-filters/index.ts"
+        }
+      ]
+    },
+    {
+      "id": "./src/components/used-machine-pattern/UsedMachinePattern.tsx",
+      "name": "./src/components/used-machine-pattern/UsedMachinePattern.tsx",
+      "reasons": [
+        {
+          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.stories.tsx"
+        },
+        {
+          "moduleName": "./src/components/used-machine-pattern/index.ts"
+        }
+      ]
+    },
+    {
+      "id": "./src/components/used-machine-pattern/used-machine-filters/index.ts",
+      "name": "./src/components/used-machine-pattern/used-machine-filters/index.ts",
+      "reasons": [
+        {
+          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.stories.tsx"
+        },
+        {
+          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.tsx"
         }
       ]
     },
@@ -2051,10 +2051,10 @@
           "moduleName": "./src/components/rich-text-pattern/RichTextPattern.tsx"
         },
         {
-          "moduleName": "./src/components/text-highlight/TextHighlight.tsx"
+          "moduleName": "./src/components/table-pattern/TablePattern.tsx"
         },
         {
-          "moduleName": "./src/components/table-pattern/TablePattern.tsx"
+          "moduleName": "./src/components/text-highlight/TextHighlight.tsx"
         },
         {
           "moduleName": "./src/components/header-long-component/HeaderLongComponent.tsx"
@@ -2088,15 +2088,6 @@
         },
         {
           "moduleName": "./src/components/usp-list/UspList.tsx"
-        }
-      ]
-    },
-    {
-      "id": "./src/components/card-event-pattern/card-event/index.ts",
-      "name": "./src/components/card-event-pattern/card-event/index.ts",
-      "reasons": [
-        {
-          "moduleName": "./src/components/card-event-pattern/CardEventPattern.tsx"
         }
       ]
     },
@@ -2136,6 +2127,15 @@
         },
         {
           "moduleName": "./src/components/rich-text/RichText.tsx"
+        }
+      ]
+    },
+    {
+      "id": "./src/components/card-event-pattern/card-event/index.ts",
+      "name": "./src/components/card-event-pattern/card-event/index.ts",
+      "reasons": [
+        {
+          "moduleName": "./src/components/card-event-pattern/CardEventPattern.tsx"
         }
       ]
     },
@@ -2485,6 +2485,18 @@
       ]
     },
     {
+      "id": "./src/components/used-machine-pattern/used-machine-card/UsedMachineDescription.tsx",
+      "name": "./src/components/used-machine-pattern/used-machine-card/UsedMachineDescription.tsx",
+      "reasons": [
+        {
+          "moduleName": "./src/components/used-machine-pattern/used-machine-card/UsedMachineCard.tsx"
+        },
+        {
+          "moduleName": "./src/components/used-machine-pattern/index.ts"
+        }
+      ]
+    },
+    {
       "id": "./src/components/used-machine-pattern/used-machine-locales.ts",
       "name": "./src/components/used-machine-pattern/used-machine-locales.ts",
       "reasons": [
@@ -2495,10 +2507,10 @@
           "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.tsx"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/index.ts"
+          "moduleName": "./src/components/used-machine-pattern/used-machine-card/UsedMachineDescription.tsx"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/used-machine-card/UsedMachineDescription.tsx"
+          "moduleName": "./src/components/used-machine-pattern/index.ts"
         }
       ]
     },
@@ -2507,25 +2519,13 @@
       "name": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.interface.ts",
       "reasons": [
         {
-          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/index.ts"
-        },
-        {
           "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.tsx"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/used-machine-locales.ts"
-        }
-      ]
-    },
-    {
-      "id": "./src/components/used-machine-pattern/used-machine-card/UsedMachineDescription.tsx",
-      "name": "./src/components/used-machine-pattern/used-machine-card/UsedMachineDescription.tsx",
-      "reasons": [
-        {
-          "moduleName": "./src/components/used-machine-pattern/used-machine-card/UsedMachineCard.tsx"
+          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/index.ts"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/index.ts"
+          "moduleName": "./src/components/used-machine-pattern/used-machine-locales.ts"
         }
       ]
     },
