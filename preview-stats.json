@@ -652,17 +652,29 @@
       ]
     },
     {
+      "id": "./src/components/anchor-navigation-card/AnchorNavigationCard.tsx",
+      "name": "./src/components/anchor-navigation-card/AnchorNavigationCard.tsx",
+      "reasons": [
+        {
+          "moduleName": "./src/components/anchor-navigation-card/AnchorNavigationCard.stories.tsx"
+        },
+        {
+          "moduleName": "./src/components/anchor-navigation-card/index.ts"
+        }
+      ]
+    },
+    {
       "id": "./src/interfaces/global-variants.ts",
       "name": "./src/interfaces/global-variants.ts",
       "reasons": [
+        {
+          "moduleName": "./src/components/anchor-navigation-card/AnchorNavigationCard.stories.tsx"
+        },
         {
           "moduleName": "./src/components/USP/Usp.stories.tsx"
         },
         {
           "moduleName": "./src/components/accrodion-pattern/AccordionPattern.stories.tsx"
-        },
-        {
-          "moduleName": "./src/components/anchor-navigation-card/AnchorNavigationCard.stories.tsx"
         },
         {
           "moduleName": "./src/components/anchor-navigation-list/AnchorNavigationList.stories.tsx"
@@ -683,13 +695,13 @@
           "moduleName": "./src/components/header-long-component/HeaderLongComponent.stories.tsx"
         },
         {
+          "moduleName": "./src/components/header-short/HeaderShort.stories.tsx"
+        },
+        {
           "moduleName": "./src/components/header-long/HeaderLong.stories.tsx"
         },
         {
           "moduleName": "./src/components/header-short-component/HeaderShortComponent.stories.tsx"
-        },
-        {
-          "moduleName": "./src/components/header-short/HeaderShort.stories.tsx"
         },
         {
           "moduleName": "./src/components/hero/Hero.stories.tsx"
@@ -704,10 +716,10 @@
           "moduleName": "./src/components/link-list-item/LinkListItem.stories.tsx"
         },
         {
-          "moduleName": "./src/components/media-text-pattern/MediaTextPattern.stories.tsx"
+          "moduleName": "./src/components/media-text-small-pattern/MediaTextSmallPattern.stories.tsx"
         },
         {
-          "moduleName": "./src/components/media-text-small-pattern/MediaTextSmallPattern.stories.tsx"
+          "moduleName": "./src/components/media-text-pattern/MediaTextPattern.stories.tsx"
         },
         {
           "moduleName": "./src/components/media-text/MediaText.stories.tsx"
@@ -728,10 +740,10 @@
           "moduleName": "./src/components/used-machine-info/UsedMachineInfo.stories.tsx"
         },
         {
-          "moduleName": "./src/components/usp-list/UspList.stories.tsx"
+          "moduleName": "./src/components/video/Video.stories.tsx"
         },
         {
-          "moduleName": "./src/components/video/Video.stories.tsx"
+          "moduleName": "./src/components/usp-list/UspList.stories.tsx"
         },
         {
           "moduleName": "./src/components/card-square/CardSquare.stories.tsx"
@@ -746,19 +758,19 @@
           "moduleName": "./src/components/used-machine-pattern/used-machine-card/UsedMachineCard.stories.tsx"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.stories.tsx"
+          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.stories.tsx"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.stories.tsx"
+          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.stories.tsx"
         },
         {
           "moduleName": "./src/components/Teaser-simple/Teaser-simple.tsx"
         },
         {
-          "moduleName": "./src/components/USP/Usp.tsx"
+          "moduleName": "./src/components/anchor-navigation-card/AnchorNavigationCard.tsx"
         },
         {
-          "moduleName": "./src/components/anchor-navigation-card/AnchorNavigationCard.tsx"
+          "moduleName": "./src/components/USP/Usp.tsx"
         },
         {
           "moduleName": "./src/components/accrodion-pattern/AccordionPattern.tsx"
@@ -788,10 +800,10 @@
           "moduleName": "./src/components/footer/Footer.tsx"
         },
         {
-          "moduleName": "./src/components/header-long/HeaderLong.tsx"
+          "moduleName": "./src/components/header-short/HeaderShort.tsx"
         },
         {
-          "moduleName": "./src/components/header-short/HeaderShort.tsx"
+          "moduleName": "./src/components/header-long/HeaderLong.tsx"
         },
         {
           "moduleName": "./src/components/header-short-component/HeaderShortComponent.tsx"
@@ -806,10 +818,10 @@
           "moduleName": "./src/components/infographic-image-pattern/InfographicImagePattern.tsx"
         },
         {
-          "moduleName": "./src/components/lead-text/LeadText.tsx"
+          "moduleName": "./src/components/infographic-image/InfographicImage.tsx"
         },
         {
-          "moduleName": "./src/components/infographic-image/InfographicImage.tsx"
+          "moduleName": "./src/components/lead-text/LeadText.tsx"
         },
         {
           "moduleName": "./src/components/link-list-item/LinkListItem.tsx"
@@ -818,13 +830,13 @@
           "moduleName": "./src/components/map-card/MapCard.tsx"
         },
         {
-          "moduleName": "./src/components/media-text-pattern/MediaTextPattern.tsx"
-        },
-        {
           "moduleName": "./src/components/media-text-small-pattern/MediaTextSmallPattern.tsx"
         },
         {
           "moduleName": "./src/components/media-text-small/MediaTextSmall.tsx"
+        },
+        {
+          "moduleName": "./src/components/media-text-pattern/MediaTextPattern.tsx"
         },
         {
           "moduleName": "./src/components/media-text/MediaText.tsx"
@@ -833,10 +845,10 @@
           "moduleName": "./src/components/multi-link-list/MultiLinkList.tsx"
         },
         {
-          "moduleName": "./src/components/navigation/Navigation.tsx"
+          "moduleName": "./src/components/news-details/NewsDetails.tsx"
         },
         {
-          "moduleName": "./src/components/news-details/NewsDetails.tsx"
+          "moduleName": "./src/components/navigation/Navigation.tsx"
         },
         {
           "moduleName": "./src/components/partner-communication/PartnerCommunication.tsx"
@@ -916,18 +928,6 @@
       ]
     },
     {
-      "id": "./src/components/anchor-navigation-card/AnchorNavigationCard.tsx",
-      "name": "./src/components/anchor-navigation-card/AnchorNavigationCard.tsx",
-      "reasons": [
-        {
-          "moduleName": "./src/components/anchor-navigation-card/AnchorNavigationCard.stories.tsx"
-        },
-        {
-          "moduleName": "./src/components/anchor-navigation-card/index.ts"
-        }
-      ]
-    },
-    {
       "id": "./src/components/anchor-navigation-list/AnchorNavigationList.tsx",
       "name": "./src/components/anchor-navigation-list/AnchorNavigationList.tsx",
       "reasons": [
@@ -997,18 +997,6 @@
       ]
     },
     {
-      "id": "./src/components/contact-form-lead/ContactFormLead.tsx",
-      "name": "./src/components/contact-form-lead/ContactFormLead.tsx",
-      "reasons": [
-        {
-          "moduleName": "./src/components/contact-form-lead/ContactFormLead.stories.tsx"
-        },
-        {
-          "moduleName": "./src/components/contact-form-lead/index.ts"
-        }
-      ]
-    },
-    {
       "id": "./src/components/contact-form/ContactForm.tsx",
       "name": "./src/components/contact-form/ContactForm.tsx",
       "reasons": [
@@ -1017,6 +1005,18 @@
         },
         {
           "moduleName": "./src/components/contact-form/index.ts"
+        }
+      ]
+    },
+    {
+      "id": "./src/components/contact-form-lead/ContactFormLead.tsx",
+      "name": "./src/components/contact-form-lead/ContactFormLead.tsx",
+      "reasons": [
+        {
+          "moduleName": "./src/components/contact-form-lead/ContactFormLead.stories.tsx"
+        },
+        {
+          "moduleName": "./src/components/contact-form-lead/index.ts"
         }
       ]
     },
@@ -1055,10 +1055,10 @@
           "moduleName": "./src/components/map-card/MapCard.stories.tsx"
         },
         {
-          "moduleName": "./src/components/media-text-pattern/MediaTextPattern.stories.tsx"
+          "moduleName": "./src/components/media-text-small-pattern/MediaTextSmallPattern.stories.tsx"
         },
         {
-          "moduleName": "./src/components/media-text-small-pattern/MediaTextSmallPattern.stories.tsx"
+          "moduleName": "./src/components/media-text-pattern/MediaTextPattern.stories.tsx"
         },
         {
           "moduleName": "./src/components/media-text-small/MediaTextSmall.stories.tsx"
@@ -1207,6 +1207,15 @@
       ]
     },
     {
+      "id": "./src/components/header-short/HeaderShort.tsx",
+      "name": "./src/components/header-short/HeaderShort.tsx",
+      "reasons": [
+        {
+          "moduleName": "./src/components/header-short/HeaderShort.stories.tsx"
+        }
+      ]
+    },
+    {
       "id": "./src/components/header-long/HeaderLong.tsx",
       "name": "./src/components/header-long/HeaderLong.tsx",
       "reasons": [
@@ -1224,15 +1233,6 @@
         },
         {
           "moduleName": "./src/components/header-short-component/index.ts"
-        }
-      ]
-    },
-    {
-      "id": "./src/components/header-short/HeaderShort.tsx",
-      "name": "./src/components/header-short/HeaderShort.tsx",
-      "reasons": [
-        {
-          "moduleName": "./src/components/header-short/HeaderShort.stories.tsx"
         }
       ]
     },
@@ -1306,20 +1306,20 @@
       ]
     },
     {
-      "id": "./src/components/media-text-pattern/MediaTextPattern.tsx",
-      "name": "./src/components/media-text-pattern/MediaTextPattern.tsx",
-      "reasons": [
-        {
-          "moduleName": "./src/components/media-text-pattern/MediaTextPattern.stories.tsx"
-        }
-      ]
-    },
-    {
       "id": "./src/components/media-text-small-pattern/MediaTextSmallPattern.tsx",
       "name": "./src/components/media-text-small-pattern/MediaTextSmallPattern.tsx",
       "reasons": [
         {
           "moduleName": "./src/components/media-text-small-pattern/MediaTextSmallPattern.stories.tsx"
+        }
+      ]
+    },
+    {
+      "id": "./src/components/media-text-pattern/MediaTextPattern.tsx",
+      "name": "./src/components/media-text-pattern/MediaTextPattern.tsx",
+      "reasons": [
+        {
+          "moduleName": "./src/components/media-text-pattern/MediaTextPattern.stories.tsx"
         }
       ]
     },
@@ -1451,10 +1451,10 @@
           "moduleName": "./src/components/used-machine-info/UsedMachineInfo.tsx"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.tsx"
+          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.tsx"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.tsx"
+          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.tsx"
         },
         {
           "moduleName": "./src/components/contact-form-events/ContactFormEvents.tsx"
@@ -1541,28 +1541,19 @@
           "moduleName": "./src/components/used-machine-info/UsedMachineInfo.stories.tsx"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.stories.tsx"
-        },
-        {
           "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.stories.tsx"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.tsx"
+          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.stories.tsx"
         },
         {
           "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.tsx"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/index.ts"
-        }
-      ]
-    },
-    {
-      "id": "./src/components/usp-list/UspList.tsx",
-      "name": "./src/components/usp-list/UspList.tsx",
-      "reasons": [
+          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.tsx"
+        },
         {
-          "moduleName": "./src/components/usp-list/UspList.stories.tsx"
+          "moduleName": "./src/components/used-machine-pattern/index.ts"
         }
       ]
     },
@@ -1572,6 +1563,15 @@
       "reasons": [
         {
           "moduleName": "./src/components/video/Video.stories.tsx"
+        }
+      ]
+    },
+    {
+      "id": "./src/components/usp-list/UspList.tsx",
+      "name": "./src/components/usp-list/UspList.tsx",
+      "reasons": [
+        {
+          "moduleName": "./src/components/usp-list/UspList.stories.tsx"
         }
       ]
     },
@@ -1672,18 +1672,6 @@
       ]
     },
     {
-      "id": "./src/components/layout/Layout.tsx",
-      "name": "./src/components/layout/Layout.tsx",
-      "reasons": [
-        {
-          "moduleName": "./src/components/layout/Layout.stories.tsx"
-        },
-        {
-          "moduleName": "./src/components/layout/index.ts"
-        }
-      ]
-    },
-    {
       "id": "./src/components/infographic-image/InfographicImage.tsx",
       "name": "./src/components/infographic-image/InfographicImage.tsx",
       "reasons": [
@@ -1692,6 +1680,18 @@
         },
         {
           "moduleName": "./src/components/infographic-image/index.ts"
+        }
+      ]
+    },
+    {
+      "id": "./src/components/layout/Layout.tsx",
+      "name": "./src/components/layout/Layout.tsx",
+      "reasons": [
+        {
+          "moduleName": "./src/components/layout/Layout.stories.tsx"
+        },
+        {
+          "moduleName": "./src/components/layout/index.ts"
         }
       ]
     },
@@ -1722,6 +1722,18 @@
       "reasons": [
         {
           "moduleName": "./src/components/redirect-modal/RedirectModal.stories.tsx"
+        }
+      ]
+    },
+    {
+      "id": "./src/components/rich-text/RichText.tsx",
+      "name": "./src/components/rich-text/RichText.tsx",
+      "reasons": [
+        {
+          "moduleName": "./src/components/rich-text/RichText.stories.tsx"
+        },
+        {
+          "moduleName": "./src/components/rich-text/index.ts"
         }
       ]
     },
@@ -1772,10 +1784,10 @@
           "moduleName": "./src/components/footer/Footer.tsx"
         },
         {
-          "moduleName": "./src/components/header-long/HeaderLong.tsx"
+          "moduleName": "./src/components/header-short/HeaderShort.tsx"
         },
         {
-          "moduleName": "./src/components/header-short/HeaderShort.tsx"
+          "moduleName": "./src/components/header-long/HeaderLong.tsx"
         },
         {
           "moduleName": "./src/components/hero/Hero.tsx"
@@ -1793,19 +1805,19 @@
           "moduleName": "./src/components/map-card/MapCard.tsx"
         },
         {
-          "moduleName": "./src/components/media-text-pattern/MediaTextPattern.tsx"
+          "moduleName": "./src/components/media-text-small-pattern/MediaTextSmallPattern.tsx"
         },
         {
-          "moduleName": "./src/components/media-text-small-pattern/MediaTextSmallPattern.tsx"
+          "moduleName": "./src/components/media-text-pattern/MediaTextPattern.tsx"
         },
         {
           "moduleName": "./src/components/multi-link-list/MultiLinkList.tsx"
         },
         {
-          "moduleName": "./src/components/navigation/Navigation.tsx"
+          "moduleName": "./src/components/news-details/NewsDetails.tsx"
         },
         {
-          "moduleName": "./src/components/news-details/NewsDetails.tsx"
+          "moduleName": "./src/components/navigation/Navigation.tsx"
         },
         {
           "moduleName": "./src/components/partner-communication/PartnerCommunication.tsx"
@@ -1835,25 +1847,13 @@
           "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.tsx"
         },
         {
-          "moduleName": "./src/components/usp-list/UspList.tsx"
-        },
-        {
           "moduleName": "./src/components/contact-form-large/ContactFormLarge.tsx"
         },
         {
-          "moduleName": "./src/components/video/Video.tsx"
-        }
-      ]
-    },
-    {
-      "id": "./src/components/rich-text/RichText.tsx",
-      "name": "./src/components/rich-text/RichText.tsx",
-      "reasons": [
-        {
-          "moduleName": "./src/components/rich-text/RichText.stories.tsx"
+          "moduleName": "./src/components/usp-list/UspList.tsx"
         },
         {
-          "moduleName": "./src/components/rich-text/index.ts"
+          "moduleName": "./src/components/video/Video.tsx"
         }
       ]
     },
@@ -1897,6 +1897,18 @@
       ]
     },
     {
+      "id": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.tsx",
+      "name": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.tsx",
+      "reasons": [
+        {
+          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.stories.tsx"
+        },
+        {
+          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/index.ts"
+        }
+      ]
+    },
+    {
       "id": "./src/components/used-machine-pattern/UsedMachinePattern.tsx",
       "name": "./src/components/used-machine-pattern/UsedMachinePattern.tsx",
       "reasons": [
@@ -1921,18 +1933,6 @@
       ]
     },
     {
-      "id": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.tsx",
-      "name": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.tsx",
-      "reasons": [
-        {
-          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.stories.tsx"
-        },
-        {
-          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/index.ts"
-        }
-      ]
-    },
-    {
       "id": "./src/utils/commonCSS.ts",
       "name": "./src/utils/commonCSS.ts",
       "reasons": [
@@ -1952,10 +1952,10 @@
           "moduleName": "./src/components/card-square/CardSquare.tsx"
         },
         {
-          "moduleName": "./src/components/header-long/HeaderLong.tsx"
+          "moduleName": "./src/components/header-short/HeaderShort.tsx"
         },
         {
-          "moduleName": "./src/components/header-short/HeaderShort.tsx"
+          "moduleName": "./src/components/header-long/HeaderLong.tsx"
         },
         {
           "moduleName": "./src/components/hero/Hero.tsx"
@@ -2012,10 +2012,10 @@
           "moduleName": "./src/components/single-link-list/SingleLinkList.tsx"
         },
         {
-          "moduleName": "./src/components/usp-list/UspList.tsx"
+          "moduleName": "./src/components/contact-form-large/ContactFormLarge.tsx"
         },
         {
-          "moduleName": "./src/components/contact-form-large/ContactFormLarge.tsx"
+          "moduleName": "./src/components/usp-list/UspList.tsx"
         }
       ]
     },
@@ -2149,15 +2149,6 @@
       ]
     },
     {
-      "id": "./src/components/card-square/index.ts",
-      "name": "./src/components/card-square/index.ts",
-      "reasons": [
-        {
-          "moduleName": "./src/components/card-square-list/CardSquareList.tsx"
-        }
-      ]
-    },
-    {
       "id": "./public/assets/yellow-right-arrow.svg",
       "name": "./public/assets/yellow-right-arrow.svg",
       "reasons": [
@@ -2198,9 +2189,6 @@
           "moduleName": "./src/components/navigation/Navigation.tsx"
         },
         {
-          "moduleName": "./src/components/zps-button/ZpsButton.tsx"
-        },
-        {
           "moduleName": "./src/components/contact-form-events/ContactFormEvents.tsx"
         },
         {
@@ -2211,6 +2199,9 @@
         },
         {
           "moduleName": "./src/components/contact-form-lead/ContactFormLead.tsx"
+        },
+        {
+          "moduleName": "./src/components/zps-button/ZpsButton.tsx"
         },
         {
           "moduleName": "./src/components/navigation/Sidebar.tsx"
@@ -2226,6 +2217,15 @@
       "reasons": [
         {
           "moduleName": "./src/components/card-square/CardSquare.tsx"
+        }
+      ]
+    },
+    {
+      "id": "./src/components/card-square/index.ts",
+      "name": "./src/components/card-square/index.ts",
+      "reasons": [
+        {
+          "moduleName": "./src/components/card-square-list/CardSquareList.tsx"
         }
       ]
     },
@@ -2407,20 +2407,20 @@
       ]
     },
     {
-      "id": "./src/components/media-text/index.ts",
-      "name": "./src/components/media-text/index.ts",
-      "reasons": [
-        {
-          "moduleName": "./src/components/media-text-pattern/MediaTextPattern.tsx"
-        }
-      ]
-    },
-    {
       "id": "./src/components/media-text-small/index.ts",
       "name": "./src/components/media-text-small/index.ts",
       "reasons": [
         {
           "moduleName": "./src/components/media-text-small-pattern/MediaTextSmallPattern.tsx"
+        }
+      ]
+    },
+    {
+      "id": "./src/components/media-text/index.ts",
+      "name": "./src/components/media-text/index.ts",
+      "reasons": [
+        {
+          "moduleName": "./src/components/media-text-pattern/MediaTextPattern.tsx"
         }
       ]
     },
@@ -2497,35 +2497,35 @@
       ]
     },
     {
+      "id": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.interface.ts",
+      "name": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.interface.ts",
+      "reasons": [
+        {
+          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.tsx"
+        },
+        {
+          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/index.ts"
+        },
+        {
+          "moduleName": "./src/components/used-machine-pattern/used-machine-locales.ts"
+        }
+      ]
+    },
+    {
       "id": "./src/components/used-machine-pattern/used-machine-locales.ts",
       "name": "./src/components/used-machine-pattern/used-machine-locales.ts",
       "reasons": [
         {
-          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.tsx"
+          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.tsx"
         },
         {
-          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.tsx"
+          "moduleName": "./src/components/used-machine-pattern/UsedMachinePattern.tsx"
         },
         {
           "moduleName": "./src/components/used-machine-pattern/index.ts"
         },
         {
           "moduleName": "./src/components/used-machine-pattern/used-machine-card/UsedMachineDescription.tsx"
-        }
-      ]
-    },
-    {
-      "id": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.interface.ts",
-      "name": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.interface.ts",
-      "reasons": [
-        {
-          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/index.ts"
-        },
-        {
-          "moduleName": "./src/components/used-machine-pattern/used-machine-filters/UsedMachineFilters.tsx"
-        },
-        {
-          "moduleName": "./src/components/used-machine-pattern/used-machine-locales.ts"
         }
       ]
     },
